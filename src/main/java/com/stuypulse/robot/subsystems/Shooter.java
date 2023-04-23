@@ -49,7 +49,7 @@ public class Shooter extends SubsystemBase{
     }
 
     // set/ do methods
-    public void setShooterRPM(double speed) {
+    public void setShooterRPM(Number speed) {
         targetRPM.set(speed);
     }
 
