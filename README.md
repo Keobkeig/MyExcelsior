@@ -1,7 +1,6 @@
-# Phil
+# My Exclesior
 
-A template repo for a command style robot. 
-
+An independent re-coding of StuyPulse's 2021-2022 FRC Robot, Excelsior that improves the existing codebase with cleaner, and easier to maintain code (e.g. singletons, less usage of StuyLibs)    
 ## To Use
 
 - Click `Use this template` in GitHub and create your new repository using the `Phil` template. 
